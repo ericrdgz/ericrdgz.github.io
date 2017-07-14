@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Logstash: Parsing ELB Access Logs from S3
+title: Logstash Parsing ELB Access Logs from S3
 ---
 
 Built using Elasticsearch Logstash Kibana (ELK) Stack
